@@ -1,0 +1,33 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/roystonHenson/Projects/bookmark_manager/app/app.rb": [
+        1,
+        1,
+        null,
+        1,
+        1,
+        0,
+        null,
+        null,
+        1,
+        null,
+        1,
+        null,
+        null,
+        null,
+        1,
+        null
+      ],
+      "/Users/roystonHenson/Projects/bookmark_manager/spec/link_spec.rb": [
+        null,
+        1,
+        1,
+        null,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1476722943
+  }
+}
